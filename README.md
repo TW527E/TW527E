@@ -6,7 +6,7 @@ Hello, my name is 誠誠, you can call me Cheng Cheng or Cheng, I am from Taiwan
 
 **Which lenguages do i know?**
 
-I know a bit of html, css, python and c#. I am currently learning Rust.
+I know a bit of html, css, python and c#. I am currently learning how to play osu better.
 
 **Contact**
 
