@@ -12,7 +12,7 @@ I know a bit of html, css, python and c#. I am currently learning how to play os
 
 You can contact me throw discord or e-mail.
 
-Discord: ČĦĖŃʛ#7773, ID: 356361726427660288
+Discord: 誠誠#7773
 
 E-Mail: a5170427@gmail.com
 
