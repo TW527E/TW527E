@@ -12,7 +12,7 @@ I know a bit of html, css, python and c#. I am currently learning how to play os
 
 You can contact me throw discord or e-mail.
 
-Discord: 站著別動#9925
+Discord: 誠誠#9925
 
 E-Mail: a5170427@gmail.com
 
