@@ -19,7 +19,7 @@ You can contact me throw Discord or Email.
 
 Discord: 誠誠#9925 <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiwan">
 
-EMail: a5170427@gmail.com
+Email: a5170427@gmail.com
 
 <a href="https://t.me/+lHO7epHtC3NlYTNl">
   <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat on Telegram"> <img src="https://img.shields.io/badge/-Chat%20Use%20Chinese-yellow" alt="Chinese">
