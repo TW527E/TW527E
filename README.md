@@ -25,7 +25,9 @@ Email: a5170427@gmail.com
   <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat on Telegram"> <img src="https://img.shields.io/badge/-Chat%20Use%20Chinese-yellow" alt="Chinese">
 </a><br>
 
-[My Website](https://tw527e.github.io)
+<a href="https://tw527e.github.io">
+  <img src="https://img.shields.io/badge/-My%20Website-brightgreen" alt="My Website">
+</a><br>
 
 ![](https://komarev.com/ghpvc/?username=TW527E&color=blueviolet)
 
