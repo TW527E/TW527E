@@ -28,7 +28,6 @@ Email: a5170427@gmail.com
 <a href="https://tw527e.github.io">
   <img src="https://img.shields.io/badge/-My%20Website-brightgreen" alt="My Website">
 </a>
-
-![](https://komarev.com/ghpvc/?username=TW527E&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=TW527E&color=blueviolet" alt="Profile Views">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TW527E&theme=tokyonight&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TW527E&layout=compact&theme=tokyonight)
