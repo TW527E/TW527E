@@ -27,7 +27,7 @@ Email: a5170427@gmail.com
 
 <a href="https://tw527e.github.io">
   <img src="https://img.shields.io/badge/-My%20Website-brightgreen" alt="My Website">
-</a><br>
+</a>
 
 ![](https://komarev.com/ghpvc/?username=TW527E&color=blueviolet)
 
