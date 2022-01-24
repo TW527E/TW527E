@@ -23,7 +23,7 @@ Email: a5170427@gmail.com
 
 <a href="https://t.me/+lHO7epHtC3NlYTNl">
   <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat on Telegram"> <img src="https://img.shields.io/badge/-Chat%20Use%20Chinese-yellow" alt="Chinese">
-</a><br>
+</a>
 
 <a href="https://tw527e.github.io">
   <img src="https://img.shields.io/badge/-My%20Website-brightgreen" alt="My Website">
