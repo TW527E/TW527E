@@ -21,7 +21,7 @@ Discord: 誠誠#9925 <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt=
 
 Email: a5170427@gmail.com
 
-<a href="https://t.me/+lHO7epHtC3NlYTNl">
+<a href="https://t.me/Cheng_Group">
   <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat on Telegram"> <img src="https://img.shields.io/badge/-Chat%20Use%20Chinese-yellow" alt="Chinese">
 </a>
 
