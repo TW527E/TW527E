@@ -17,12 +17,12 @@ I know a bit of HTML, CSS, Python and C#. I am currently learning how to coding 
 你可以用 Discord, Telegram 或 Email。<br>
 You can contact me throw Discord or Email.
 
-Discord: 誠誠#9925 <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiwan">
+Discord: 誠誠#0487 <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiwan">
 
 Email: a5170427@gmail.com
 
 <a href="https://t.me/Cheng_Group">
-  <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat on Telegram"> <img src="https://img.shields.io/badge/-Chat%20Use%20Chinese-yellow" alt="Chinese">
+  <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat on Telegram">
 </a>
 
 <a href="https://tw527e.github.io">
