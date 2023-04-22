@@ -2,9 +2,9 @@
 
 **我是誰? Who i am ?**
 
-您好，我叫做 **誠誠**，你也可以叫我 **誠**，我來自台灣，14歲，我喜歡玩 osu!, Unturned, Minecraft.<br>
+您好，我叫做 **誠誠**，你也可以叫我 **誠**，我來自台灣，15歲，我喜歡玩 osu!, Unturned, Minecraft.<br>
 我會開始寫程式的原因是，為我的Discord伺服器寫一些機器人，但之後我學習了 C#, HTML, JavaScript, CSS.....。<br>
-Hello, my name is **誠誠**, you can call me **Cheng Cheng** or **Cheng**, I am from Taiwan, 14 years old. I like osu!, Unturned, Minecraft.<br>
+Hello, my name is **誠誠**, you can call me **Cheng Cheng** or **Cheng**, I am from Taiwan, 15 years old. I like osu!, Unturned, Minecraft.<br>
 The reason I would start programming was, to write some bots for my Discord server, but then I learned C#, HTML, JavaScript, CSS….
 
 **那些程式語言我會? Which lenguages do i know?**
@@ -17,9 +17,13 @@ I know a bit of HTML, CSS, Python and C#. I am currently learning how to coding 
 你可以用 Discord, Telegram 或 Email。<br>
 You can contact me throw Discord or Email.
 
-Discord: 誠誠#0487 <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiwan">
+Discord: ChengCheng#4246 <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiwan">
 
 Email: <a href="mailto:a5170427@gmail.com">a5170427@gmail.com</a>
+
+<a href="https://discord.gg/DB2cMyVVy3">
+  <img src="https://img.shields.io/badge/-Chat%20on%20Discord%20Server-purple" alt="Chat on Discord Server">
+</a>
 
 <a href="https://t.me/Cheng_Group">
   <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat on Telegram">
