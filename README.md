@@ -17,7 +17,7 @@ I know a bit of HTML, CSS, Python, C++++(#) and Java ~~(Guava)~~. I am currently
 你可以用 Discord, Telegram 或 Email。<br>
 You can contact me throw Discord or Email.
 
-Discord: ChengCheng#4246 <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiwan">
+Discord: tw527e <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiwan">
 
 Email: <a href="mailto:tw527e@icloud.com">tw527e@icloud.com</a>
 
