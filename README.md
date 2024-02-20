@@ -14,8 +14,8 @@ I know a bit of HTML, CSS, Python, C# and Java. I am currently learning how to c
 
 **聯絡我 Contact**
 
-你可以用 Discord, Telegram 或 Email。<br>
-You can contact me throw Discord or Email.
+你可以用 Discord 和 Telegram。<br>
+You can contact me on Discord and Telegram.
 
 Discord: tw527e <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiwan">
 
