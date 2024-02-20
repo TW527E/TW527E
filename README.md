@@ -9,8 +9,8 @@ The reason I would start programming was, to write some bots for my Discord serv
 
 **那些程式語言我會? Which lenguages do i know?**
 
-我知道一些些 HTML, CSS, JavaScript, Python, C++++(#) 和 Java ~~(Lava)~~。 我正在學習如何讓我寫程式更棒。<br>
-I know a bit of HTML, CSS, Python, C++++(#) and Java ~~(Guava)~~. I am currently learning how to coding better.
+我知道一些些 HTML, CSS, JavaScript, Python, C# 和 Java。 我正在學習如何讓我寫程式更棒。<br>
+I know a bit of HTML, CSS, Python, C# and Java. I am currently learning how to coding better.
 
 **聯絡我 Contact**
 
@@ -19,14 +19,12 @@ You can contact me throw Discord or Email.
 
 Discord: tw527e <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiwan">
 
-Email: <a href="mailto:tw527e@icloud.com">tw527e@icloud.com</a>
-
 <a href="https://discord.gg/DB2cMyVVy3">
-  <img src="https://img.shields.io/badge/-Chat%20on%20Discord%20Server-purple" alt="Chat on Discord Server">
+  <img src="https://img.shields.io/badge/-Chat%20on%20Discord%20Server-purple" alt="Chat me on my Discord Server">
 </a>
 
-<a href="https://t.me/Cheng_Group">
-  <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat on Telegram">
+<a href="https://t.me/TW527E">
+  <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat with me on Telegram">
 </a>
 
 <a href="https://tw527e.github.io">
