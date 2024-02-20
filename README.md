@@ -27,8 +27,8 @@ Discord: tw527e <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiw
   <img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue" alt="Chat with me on Telegram">
 </a>
 
-<a href="https://tw527e.github.io">
-  <img src="https://img.shields.io/badge/-My%20Website-brightgreen" alt="My Website">
+<a href="https://tw527e.eu.org">
+  <img src="https://img.shields.io/badge/-My%20Website-brightgreen" alt="My Profile Page">
 </a>
 
 <a href="https://github.com/TW527E/TW527E">
