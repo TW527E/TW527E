@@ -2,7 +2,7 @@
 
 **我是誰? Who i am ?**
 
-您好，我叫做 **誠誠**，你也可以叫我 **誠**，我來自台灣，16 歲，我喜歡玩 VRChat, Minecraft.<br>
+您好，我叫做 **誠誠**，你也可以叫我 **誠**，我來自台灣，17 歲，我喜歡玩 VRChat, Minecraft.<br>
 我會開始寫程式的原因是，為我的 Discord 伺服器寫一些機器人，但之後我學習了 C#, HTML, JavaScript, CSS.....。<br>
 Hello, my name is **誠誠**, you can call me **Cheng Cheng** or **Cheng**, I am from Taiwan, 16 years old. I like VRChat, Minecraft.<br>
 The reason I would start programming was, to write some bots for my Discord server, but then I learned C#, HTML, JavaScript, CSS….
