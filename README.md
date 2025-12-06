@@ -31,4 +31,4 @@ Discord: tw527e <img src="https://img.shields.io/badge/-Taiwan-ff1f4b" alt="Taiw
   <img src="https://komarev.com/ghpvc/?username=TW527E&color=blueviolet" alt="Profile Views">
 </a><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TW527E&theme=tokyonight&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TW527E&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-woad-seven-61.vercel.app/api?username=TW527E&theme=tokyonight&show_icons=true)![Top Langs](https://github-readme-stats-woad-seven-61.vercel.app/api/top-langs/?username=TW527E&layout=compact&theme=tokyonight)
