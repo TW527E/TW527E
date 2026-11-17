@@ -20,14 +20,9 @@ VR 這邊有 [rebocap-linux-wivrn-fbt](https://github.com/TW527E/rebocap-linux-w
 
 Lately: ShiftIME (tap Shift to switch input languages on macOS), Wherry (syncs my X posts to Bluesky, Sharkey and Telegram), full-body tracking in VRChat on Linux with Rebocap, the X-Minimal userscript, and EnderCart (WooCommerce rewards delivered in Minecraft)
 
-**我會用的東西 What I use**
+**我會用的東西，還有我在玩的 What I use & play**
 
-<img src="https://spine.tw527e.zip/shelf.svg?s=badge:python&s=badge:typescript&s=badge:javascript&s=badge:swift&s=badge:rust&s=badge:java&s=C%23;icon=dotnet" alt="Python, TypeScript, JavaScript, Swift, Rust, Java, C#" height="240">
-<img src="https://spine.tw527e.zip/badge/linux,archlinux,apple,cloudflare,tampermonkey,telegram,discord.svg" alt="Linux, Arch Linux, Apple, Cloudflare, Tampermonkey, Telegram, Discord" height="240">
-
-**我在玩 What I play**
-
-<img src="https://spine.tw527e.zip/badge/osu,minecraft,vrchat,rebocap,wivrn,oculus,lunlunsworld.svg" alt="osu!, Minecraft, VRChat, Rebocap, WiVRn, Oculus Quest, Lunlun's World" height="240">
+<img src="https://spine.tw527e.zip/shelf.svg?s=badge:python&s=badge:typescript&s=badge:javascript&s=badge:swift&s=badge:rust&s=badge:java&s=C%23;icon=dotnet&size=380" alt="Python, TypeScript, JavaScript, Swift, Rust, Java, C#"><img src="https://spine.tw527e.zip/badge/linux,archlinux,apple,cloudflare,tampermonkey,telegram,discord.svg?size=380" alt="Linux, Arch Linux, Apple, Cloudflare, Tampermonkey, Telegram, Discord"><img src="https://spine.tw527e.zip/badge/osu,minecraft,vrchat,rebocap,wivrn,oculus,lunlunsworld.svg?size=380" alt="osu!, Minecraft, VRChat, Rebocap, WiVRn, Oculus Quest, Lunlun's World">
 
 **聯絡我 Contact**
 
